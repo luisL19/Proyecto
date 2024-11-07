@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.6",
+    "odd": "^0.1.0",
+    "uuid": "^11.0.2"
+  }
+}
